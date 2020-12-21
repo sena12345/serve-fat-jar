@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="serve-fat-jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/serve_fat_jar</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Main" />
+        <option name="description" value="This is a jar file server." />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="msgOutputLevel" value="Verbose" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="Jar Real" />
+        <option name="vendor" value="Elvis" />
+        <option name="version" value="1.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="serve_fat_jar.jar">
+        <element id="module-output" name="serve-fat-jar" />
+      </element>
+    </root>
+  </artifact>
+</component>

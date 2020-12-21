@@ -1,0 +1,1 @@
+java -jar host/_1sports-club-demo-0.0.1-SNAPSHOT.jar
